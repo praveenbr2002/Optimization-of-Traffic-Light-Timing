@@ -6,6 +6,7 @@
       <content>Copyright (c) AnyLogic North America 2010</content>
       <up_axis>Y_UP</up_axis>
    </asset>
+
    <library_geometries>
       <geometry id="polymsh_Pts_Material__1__Surf-geometry" name="polymsh_Pts">
          <mesh>
